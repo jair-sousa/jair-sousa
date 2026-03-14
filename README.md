@@ -66,7 +66,7 @@ https://github.com/jair-sousa
 
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/jair-sousa/jair-sousa-snake/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/jair-sousa/jair-sousa-snake/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
