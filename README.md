@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! Eu sou Jair Sousa 👋
 
-<!--
-**jair-sousa/jair-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)**
+💻 Desenvolvedor **Fullstack em formação**
+🚀 Foco em **Backend com Node.js**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que utilizo
+
+* Node.js
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* PostgreSQL
+* Git e GitHub
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 **J-Oráculo**
+Aplicação web interativa que simula respostas de um oráculo.
+
+🔹 **Fluidity**
+Aplicativo de saúde mental desenvolvido em equipe utilizando React e TypeScript.
+
+🔹 **Sistema Escola de Lutas**
+Sistema para controle e gestão de alunos.
+
+---
+
+## 🌐 Portfólio
+
+https://jairsousa.netlify.app
+
+---
+
+## 📫 Onde me encontrar
+
+* LinkedIn: https://www.linkedin.com/in/jair-sousa-ads
+* GitHub: https://github.com/jair-sousa
+
+---
+
+💡 Sempre buscando aprender mais e construir projetos reais para evoluir como desenvolvedor.
