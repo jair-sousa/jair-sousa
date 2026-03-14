@@ -1,10 +1,12 @@
 # Olá! Eu sou Jair Sousa 👋
 
+![](https://komarev.com/ghpvc/?username=jair-sousa\&color=blue)
+
 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)**
 💻 Desenvolvedor **Fullstack em formação**
 🚀 Foco em **Backend com Node.js**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 🚀 Tecnologias
 
@@ -16,19 +18,19 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📊 Estatísticas do GitHub
 
 ![Jair GitHub stats](https://github-readme-stats.vercel.app/api?username=jair-sousa\&show_icons=true\&theme=tokyonight)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 💻 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jair-sousa\&layout=compact\&theme=tokyonight)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 🚀 Projetos em destaque
 
@@ -44,13 +46,13 @@ Aplicativo de saúde mental desenvolvido em equipe utilizando **React e TypeScri
 
 Sistema para **controle e gestão de alunos**.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 🌐 Portfólio
 
 https://jairsousa.netlify.app
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📫 Onde me encontrar
 
@@ -60,6 +62,12 @@ https://www.linkedin.com/in/jair-sousa-ads
 GitHub
 https://github.com/jair-sousa
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## 🐍 Contribuições
+
+![snake gif](https://github.com/jair-sousa/jair-sousa-snake/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 💡 Sempre buscando aprender mais, construir projetos reais e evoluir como desenvolvedor.
